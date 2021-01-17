@@ -1,0 +1,3 @@
+#!/bin/sh
+set -x
+pod2projdocs -o html -l lib

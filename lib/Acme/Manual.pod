@@ -1,0 +1,7 @@
+=head1 NAME
+
+Acme::PPD::Manual - Manual for Acme::PPD
+
+=head1 DESCRIPTION
+
+Nothing much!  See L<Acme::PPD>.

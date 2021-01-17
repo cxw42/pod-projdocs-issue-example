@@ -22,7 +22,7 @@ Acme::PPD - It's new $module
 
 =head1 DESCRIPTION
 
-Acme::PPD is ...
+See L<Acme::PPD::Manual>.
 
 =head1 LICENSE
 
